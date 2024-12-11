@@ -40,7 +40,8 @@ By integrating directly with other apps in the ecosystem (such as the User App a
 |----------------------|:----------------------------------:|:------------------------------------:|
 | <img src="src/User_App.png" alt="User App" width="50" height="40"> User App           | X                                   |                                      |
 | <img src="src/Delivery_Men_App.png" alt="Delivery Men App" width="50" height="40"> Delivery Men App   | X                                   |                                      |
-| <img src="src/Store_Admin_App.png" alt="Store Admin App" width="50" height="40"> Store Admin App    | X                                   |                                      |
+| <img src="src/Store_App.png" alt="Store App" width="50" height="40"> Store App    | X           
+| <img src="src/Store_Admin_App.png" alt="Store Admin App" width="50" height="40"> Store Admin App    | X                          |                                      |
 | <img src="src/Transport_App.png" alt="Transport App" width="50" height="40"> Transport App        | X                                   |                                      |
 | <img src="src/Restaurants_App.png" alt="Restaurants App" width="50" height="40"> Restaurants App    | X                                   |                                      |
 | <img src="src/Factory_App.png" alt="Factory App" width="50" height="40"> Factory App          | X                                   |                                      |
