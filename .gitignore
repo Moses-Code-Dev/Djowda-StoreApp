@@ -16,3 +16,4 @@
 local.properties
 /app/google-services.json
 /app/src/main/res/raw/
+.vscode/settings.json
