@@ -48,3 +48,5 @@ By integrating directly with other apps in the ecosystem (such as the User App a
 | <img src="src/Farmer_App.png" alt="Farmer App" width="50" height="40"> Farmer App         | X                                   |                                      |
 | <img src="src/App_for_Seed_Providers.png" alt="App for Seed Providers" width="50" height="40"> App for Seed Providers | X                             |                                      |
 | <img src="src/Ai.png" alt="AI Assistance" width="40" height="40"> AI Assistance      | X                                   |                                      |
+
+![Store App Relations](src/store_app_relations.gif)
