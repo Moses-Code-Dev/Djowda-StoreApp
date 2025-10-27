@@ -21,4 +21,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "Djowda Store"
 include(":app")
+include(":DjowdaMap")
+include(":Shared_res")
  
